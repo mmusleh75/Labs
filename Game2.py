@@ -1,6 +1,13 @@
 import random
+# input comma separated elements as string
+str = str(input("Enter comma separated integers: "))
+print("Input string: ", str)
 
-teams = ["Gold", "Steal","Platinum","Yellow","OSHS","OWHS", "OEHS"]
+# conver to the list
+participating_teams = str.split (",")
+print("list: ", participating_teams)
+
+#teams = ["Gold", "Steal","Platinum","Yellow","OSHS","OWHS", "OEHS"]
 #teams =["team 1"]
 playing_team=[]
 
@@ -11,6 +18,7 @@ def play_game_now(playing_team):
         exit(1)
 
     print("PLAYING TEAM: ", playing_team)
+
 
     east_team = playing_team[0]
     west_team = playing_team[1]
@@ -31,7 +39,7 @@ def play_game_now(playing_team):
 
 if __name__ == '__main__':
 
-    for team in teams:
+    for team in participating_teams:
         # if there are two teams ready to play, then call the function
         if len(playing_team) == 2:
             play_game_now(playing_team)
