@@ -1,6 +1,6 @@
 import random
 # input comma separated elements as string
-str = str(input("Enter comma separated integers: "))
+str = str(input("Enter comma separated list of teams: "))
 print("Input string: ", str)
 
 # conver to the list
