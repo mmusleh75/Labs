@@ -1,0 +1,11 @@
+Write a program that represent the necessary child and parent classes for: Student, Doctor, Teacher
+
+they have common attributes such as name, age, gender, address, however student has a unique attribue called Grade,
+where Doctor has a unique attribue call boardName and the Teacher has unique attribute called Rank.
+
+they have the follow behaviors
+Student -> Studies
+Teacher -> Teaches
+Doctor -> Treats
+
+

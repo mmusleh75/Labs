@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d30e87-36e6-462d-8429-51f27c42a83e" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Animals/Animals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/Lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gh-setup/gh-setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houses/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text-game/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text-game/find-in-range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/assignment.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631149162300</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1637872347367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637872347367</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
