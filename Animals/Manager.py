@@ -1,10 +1,10 @@
-from Animals import Animal, Dog, Cat, Bird
+from Animals import Dog, Cat, Bird
 # -------------------------------------------
 
 def PrintAnimalInfo(_animal):
     _animal.PrintAnimalInfo()
 
-if __name__ == "__main__":
+def main():
     shippered = Dog("Scott", 10, "Male", "White", "Orange")
     shippered.PrintAnimalInfo()
 

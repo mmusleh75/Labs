@@ -76,6 +76,3 @@ class Bird(Animal):
     def EatFood(self):
         return "I'm a bird, I eat seeds"
 
-
-
-
