@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d30e87-36e6-462d-8429-51f27c42a83e" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Ammon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animals/Manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Person/assignment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Person/assignment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animals/Animals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Animals/Animals.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +51,11 @@
       <recent name="C:\Users\User\PycharmProjects\Labs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Labs\winning_team" />
       <recent name="C:\Users\User\PycharmProjects\Labs\Animals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Person">
+  <component name="RunManager" selected="Python.Manager">
     <configuration name="Ammon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Animals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/Lab1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Animals/Manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Manager" />
         <item itemvalue="Python.Person" />
         <item itemvalue="Python.Ammon" />
         <item itemvalue="Python.Animals" />
         <item itemvalue="Python.OOP" />
-        <item itemvalue="Python.Lab1" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637872806143</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1637896226869</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637896226869</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,11 +272,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Factorial.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Shapes/Client.py</url>
           <line>6</line>
